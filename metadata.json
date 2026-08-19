@@ -1,0 +1,6 @@
+{
+  "name": "Bahçelievler Çilingir & Oto Anahtar | Kısmet Anahtar",
+  "description": "Bahçelievler çilingir ve oto anahtar hizmeti. 1995'ten beri hizmet, 24 saat açık. Araç anahtarı, oto anahtar, merkezi kilit, motor anahtarı ve çilingir hizmetleri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
