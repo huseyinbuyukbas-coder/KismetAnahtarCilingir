@@ -1,6 +1,7 @@
 /**
  * @license
  * SPDX-License-Identifier: Apache-2.0
+ * GitHub sync trigger
  */
 
 import React, { useState } from 'react';
